@@ -119,6 +119,7 @@ These are the typical steps needed to set up a Laravel app once it's cloned:
     ```shell
     php artisan migrate
     ```
+NOTE: Once you create the app, if you store front is showing a blank page make sure to add HOST variable in .env found in the Partners Dashboard.
 
 And your Laravel app is ready to run! You can now switch back to your app's root folder to continue:
 
